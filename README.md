@@ -9,7 +9,7 @@
 # Min Jae Kim</br>
 🏢 Soon Chun Hyang Univ</br>
 🔭 OOPSLA Lab</br></br>
-🖋 I’m currently learning <b>algorithm</b>
+🖋 I’m currently learning <b>algorithm</b></br>
 🖋 I’m currently learning <b>spring</b>
 
 <!-- SNS -->
