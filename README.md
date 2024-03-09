@@ -11,6 +11,7 @@
 🔭 OOPSLA Lab</br></br>
 🖋 I’m currently learning <b>algorithm</b></br>
 🖋 I’m currently learning <b>spring</b>
+🖋 I’m currently learning <b>java</b>
 
 <!-- SNS -->
 ## 📞Contact📞</br>
