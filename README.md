@@ -10,7 +10,7 @@
 🏢 Soon Chun Hyang Univ</br>
 🔭 OOPSLA Lab</br></br>
 🖋 I’m currently learning <b>algorithm</b></br>
-🖋 I’m currently learning <b>spring</b>
+🖋 I’m currently learning <b>spring</b></br>
 🖋 I’m currently learning <b>java</b>
 
 <!-- SNS -->
