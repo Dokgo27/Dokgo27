@@ -1,7 +1,7 @@
 <div>
 
 # Kim Min Jae</br>
-🎓 Soon Chun Hyang Univ</br> 
+🎓 Soon Chun Hyang Univ</br>
 🔭 OOPSLA Lab</br></br>
 🖋 <b>Algorithm</b></br>
 🖋 <b>Spring Framework</b></br>
